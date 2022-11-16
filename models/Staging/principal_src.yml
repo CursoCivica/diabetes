@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  -name: principal_src
+   database: DEV_BRONZE_DIABETES
+   schema: PRINCIPAL_SRC
+   tables:
+    -name: DIABETES_PRINCIPAL_SRC
